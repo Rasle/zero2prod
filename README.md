@@ -1,1 +1,1 @@
-# zero2prod
+# [Zero To Production In Rust](https://zero2prod.com)
